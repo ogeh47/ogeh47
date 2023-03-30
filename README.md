@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogeh47
+- 👋 Hi, I’m Ogeh Ezeonu
 - 👀 I’m interested in creating software solutions that help make life easier
 - 🌱 I’m currently building Expitra.com
 
